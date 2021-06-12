@@ -4,7 +4,7 @@
 **chetan-2002/chetan-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+In short ,Tech enthusiast with passion for web development.
 - 🔭 I’m currently working on Newsletter
 - 🌱 I’m currently learning Full Stack Web Development.
 - 👯 I’m looking to collaborate with other developers in the community.
@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 
 [![Chetans's github stats](https://github-readme-stats.vercel.app/api?username=chetan-2002&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
-## Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
+
