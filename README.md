@@ -1,10 +1,5 @@
 ### Hi ,I am chetan👋
-
-
-**chetan-2002/chetan-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-In short ,Tech enthusiast with passion for web development.
+#### In short ,Tech enthusiast with passion for web development.
 - 🔭 I’m currently working on Newsletter
 - 🌱 I’m currently learning Full Stack Web Development.
 - 👯 I’m looking to collaborate with other developers in the community.
