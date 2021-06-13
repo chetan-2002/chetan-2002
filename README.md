@@ -18,14 +18,12 @@
 <hr>
 <br>
 <h2>📊 Github Stats</h2>
-<a href='https://github.com/chetan-2002/github-stats-transparent'>
-  
-<!-- ![Stats Overview](https://raw.githubusercontent.com/chetan-2002/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/chetan-2002/github-stats-transparent/output/generated/languages.svg)
- -->
-</a>
+<a href='https://github.com/chetan-2002/github-stats-transparent'></a>
 
 [![Chetans's github stats](https://github-readme-stats.vercel.app/api?username=chetan-2002&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+
+
+<br>
 
 <br>
 <hr>
@@ -37,7 +35,7 @@
 <hr>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/chetan-2002" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ChetanThakral3" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/chetan-thakral" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/chetan.thakral" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<p><a href="https://github.com/chetan-2002" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ChetanThakral3" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/chetan-thakral" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/chetan.thakral" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 <br>
 <hr>
