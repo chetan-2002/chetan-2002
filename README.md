@@ -22,7 +22,11 @@
 
 [![Chetans's github stats](https://github-readme-stats.vercel.app/api?username=chetan-2002&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chetan-2002&theme=radical)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chetan-2002&theme=radical)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chetan-2002&theme=neon-palenight)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chetan-2002&theme=neon-palenight)](https://git.io/streak-stats)
+
+
 
 
 <br>
