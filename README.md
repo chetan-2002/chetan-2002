@@ -14,6 +14,13 @@
 - 📫 How to reach me: My email: chetanthakral325@gmail.com
 - ⚡ Fun fact: Pretty good with learning new technologies.
 - My profile views : ![](https://komarev.com/ghpvc/?username=chetan-2002)
+<table style="width:100%">
+  <tr>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-2002&layout=compact&hide=Ruby" /></th>
+    
+  </tr>
+</table>
+
 <br>
 <hr>
 <br>
