@@ -32,6 +32,10 @@
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chetan-2002&theme=radical)](https://git.io/streak-stats) -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chetan-2002&theme=neon-palenight)](https://git.io/streak-stats) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chetan-2002&theme=neon-palenight)](https://git.io/streak-stats)
+<br>
+
+<a href="https://github.com/chetan-2002/github-readme-activity-graph"><img alt="Chetan;s graph" src="https://activity-graph.herokuapp.com/graph?username=chetan-2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
 
 
 
