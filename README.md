@@ -6,7 +6,7 @@
 
  In short ,Tech enthusiast with passion for web development.
 
-- 🔭 I’m currently working on my Newsletter.
+- 🔭 I’m currently working on my Personal Projects.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 👯 I’m looking to collaborate with other developers in the community.
 - 🤔 I’m looking for help with Javascript.
