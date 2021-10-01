@@ -1,4 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Chetan Thakral! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>नमस्ते [Namaste]🙏🏻, I'm Chetan Thakral! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
