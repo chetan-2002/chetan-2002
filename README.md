@@ -36,18 +36,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chetan-2002&theme=neon-palenight)](https://git.io/streak-stats)
 <br>
 
-<a href="https://github.com/chetan-2002/github-readme-activity-graph"><img alt="Chetan;s graph" src="https://activity-graph.herokuapp.com/graph?username=chetan-2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-
-
-
-
-<br>
+<!-- <a href="https://github.com/chetan-2002/github-readme-activity-graph"><img alt="Chetan;s graph" src="https://activity-graph.herokuapp.com/graph?username=chetan-2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<!-- <br/> -->
+<!-- <br> -->
 
 <br>
 <hr>
 <br>
-
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <br>
